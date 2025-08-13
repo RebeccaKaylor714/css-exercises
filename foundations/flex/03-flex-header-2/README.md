@@ -11,7 +11,7 @@ As with the last example, this one needs to be flexible in the middle, with item
 
 ![png](./desired-outcome.png)
 
-![gif](./desired-outcome.gif)
+![gif](./desired-outcome .gif)
 
 ### Self Check
 - Everything is centered vertically inside the header.
